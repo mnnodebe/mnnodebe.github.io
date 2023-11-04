@@ -4,7 +4,7 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=0.41, maximum-scale=1" />
 		<meta name="description" content="Mary Nnodebe portfolio">
-		<meta name="keywords" content="Mary Nnodebe, UC Berkeley">
+		<meta name="keywords" content="Mary Nnodebe, University Of Houston">
 
 		<link rel="stylesheet" href="assets/css/styles.css">
 		<link rel="icon" href="assets/img/letter-c.png">
